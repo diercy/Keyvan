@@ -1,0 +1,28 @@
+===Database shop
+
+== Table structure for table product
+
+|------
+|Column|Type|Null|Default
+|------
+|//**product-id**//|int(11)|No|
+|cat-id|int(11)|No|
+|name|varchar(200)|No|
+|gheymat|varchar(200)|No|
+|pic|varchar(200)|No|
+|tozihat|text|No|
+|emtiaz|int(11)|No|
+== Dumping data for table product
+
+|12|33|پروژه محور PHP|10000|product-image/6f129d73bca728cf5337bd17696f0883|&lt;p&gt;Salam Khedmate Tamami Dostan&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;Amozesh Dore Prozhe Mehvar PHP Dar Khedmate Shoma Hastim&lt;/p&gt;
+|0
+|15|28|آموزش HTML|30000|product-image/eb49e34f6a9fe25c6105b1d3cd3e49b6|&lt;p&gt;Salam&lt;/p&gt;
+
+&lt;p&gt;Ba Amozeshe 0 Ta 100 PHP Dar Khedmate Shoma Hastim&lt;/p&gt;
+|0
+|17|29|آموزش CSS|10000|product-image/0c53596e7e2e27f8131e8aaeb8a62a1e|&lt;p&gt;Salam&lt;/p&gt;
+
+&lt;p&gt;Ba Amozheshe Prozhe Mehvare CSS Dar Khedmate Shoma Hastim&lt;/p&gt;
+|0
